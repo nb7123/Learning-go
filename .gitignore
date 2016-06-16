@@ -23,5 +23,6 @@ _testmain.go
 *.test
 *.prof
 
-# temp files
-#.swp
+# temp files and execute dir
+*.swp
+/bin
